@@ -1,0 +1,64 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+# 📎 Contacto
+
+ 📧 Email: lizsanchezgutierrez121@gmail.com  
+ 📞 Teléfono: +51 994 058 532  
+ 🌐 LinkedIn: [liz-sanchez-gutierrez](https://www.linkedin.com/in/liz-sanchez-gutierrez)
+
+# 📌 Perfil Profesional
+
+Bachiller en Estadística Informática con experiencia en análisis de datos, modelado predictivo y visualización.  
+Durante una pausa laboral dedicada a la familia, continué mi formación profesional en herramientas clave como **Python, SQL y Power BI**.  
+Me destaco por mi **capacidad analítica, organización y enfoque en soluciones efectivas**.
+
+# 🎓 Educación
+
+- **Bachiller en Estadística Informática**, Universidad Nacional Agraria La Molina (2014–2023)  
+- **Máster en Ciencia de Datos con Python**, UDEMY (2023)  
+- **SQL Server 2019**, UDEMY (2022)  
+- **Power BI - Análisis de Datos y BI**, UDEMY (2022)  
+- **Especialista en KPIs**, UDEMY (2025)
+
+# 💻 Habilidades Técnicas
+
+- **Análisis**: Minería de datos, Modelado predictivo, Segmentación  
+- **Herramientas**: Python, R, SQL, Power BI, Google Cloud  
+- **Idiomas**: Español (nativo), Inglés (intermedio)
+
+# 💼 Experiencia Profesional
+
+## Analista Digital – Quántico (Research BBVA), Lima (Abril – Dic. 2023)
+- Diseñé dashboards en Excel para investigaciones de mercado.  
+- Implementé modelos estadísticos ad-hoc para segmentaciones.  
+- Generé insights clave para decisiones estratégicas.
+
+## Analista en Trade Marketing – Adecco (Farmacias Peruanas), Lima (Feb – Mar. 2024)
+- Diseñé dashboards en Power BI para cumplimiento de layout.  
+- Validé datos georreferenciados y visuales.  
+- Coordiné y capacité equipos de campo para automatizar procesos.  
+- Generé reportes y alertas para áreas de operaciones y marketing.
+
+## Pausa Laboral – Dedicación a la Familia
+- Realicé formación continua en herramientas analíticas como **Power BI, SQL y KPIs**.  
+- Fortalecí habilidades como **planificación** y **resolución de problemas**.
+
+# 📊 Proyectos Destacados
+
+## Dashboard para análisis de mercado (2023)
+Diseñé un sistema de visualización para datos financieros y de consumo,  
+**optimizando el tiempo de análisis en un 20%**.
+
+#  📄 Certificados obtenidos
+![Especialista en Indicadores de Gestión (KPIs) + Power BI](https://udemy-certificate.s3.amazonaws.com/image/UC-edfed262-415e-4d75-b7f6-3772561ea9f6.jpg)
+
+![Excel y Power BI – Análisis y Visualización de Datos](https://udemy-certificate.s3.amazonaws.com/image/UC-a43e8c74-28c7-47bb-9cdd-20115bd23353.jpg)
+
+![Sql Server 2019 para Principiantes encuentra un Buen Trabajo](https://udemy-certificate.s3.amazonaws.com/image/UC-92999b1a-30d3-468d-ad3f-b795f01fe5d0.jpg)
+
+![Excel desde Básico hasta Avanzado + MACROS/VBA + POWER BI](https://udemy-certificate.s3.amazonaws.com/image/UC-3b6e2fd6-90a1-4e10-a464-6ab9a3d20121.jpg)
+
+
