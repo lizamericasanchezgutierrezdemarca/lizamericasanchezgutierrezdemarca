@@ -1,1 +1,13 @@
-
+/sql-sales-analysis
+│
+├── README.md
+├── dataset/
+│   └── ventas.csv
+├── queries/
+│   ├── 01_crear_tablas.sql
+│   ├── 02_insertar_datos.sql
+│   ├── 03_consultas_basicas.sql
+│   ├── 04_analisis_kpis.sql
+│   └── 05_vistas_y_subconsultas.sql
+└── resultados/
+    └── analisis_kpis.md
